@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 import numpy as np
 from anue_labels import labels
-from scipy.misc import imread
+from scipy.imageio import imread
 import glob
 from argparse import ArgumentParser
 import random
